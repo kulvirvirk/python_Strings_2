@@ -5,6 +5,8 @@
 # 4.  \n  - Newline
 # 5.  \\  - Backslash 
 
+# 6.  Raw string example
+
 # 1. 
 print('Hello there \'Bill\'!')
 
@@ -20,4 +22,6 @@ print('Hello there \nBill!')
 # 5. 
 print('Hello there \\Bill\\!')
 
-
+# 6. 
+# raw string example; hint - use 'r' as prefix 
+print(r"this is \\\ raw string!") 
