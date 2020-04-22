@@ -7,3 +7,7 @@
 
 #1. 
 print('Hello there \'Bill\'!')
+
+#2. 
+print('Hello there \"Bill\"!')
+
