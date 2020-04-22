@@ -5,9 +5,15 @@
 # 4.  \n  - Newline
 # 5.  \\  - Backslash 
 
-#1. 
+# 1. 
 print('Hello there \'Bill\'!')
 
-#2. 
+# 2. 
 print('Hello there \"Bill\"!')
+
+# 3.
+print('Hello there \tBill!')
+
+
+
 
